@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Jeff Kim
- 🔭 I’m currently working on Computer Science
+- 🔭 I’m currently working on Computer Science
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on Data ethics
 - 🤔 I’m looking for help with Everything. I'm dying inside.
@@ -20,3 +20,4 @@ Branches are used for people to make changes to code and work in different parts
 - To make git branch git branch ____
 - To move git checkout "branch name" 
 - Git push -u origin "branch name"
+- To pull branches git pull origin "main branch"
