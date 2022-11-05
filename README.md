@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Jeff Kim
- 🔭 I’m currently working on Computer Science
+- 🔭 I’m currently working on Computer Science
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on Data ethics
 - 🤔 I’m looking for help with Everything. I'm dying inside.
