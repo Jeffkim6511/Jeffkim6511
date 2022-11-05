@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is Jeff Kim
  🔭 I’m currently working on Computer Science
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on Data ethics
@@ -13,3 +13,7 @@ To make changes to repositories:
 - then git commit -m "___"
 - then git push
 then it should work!!!!!
+
+How to branch:
+- To make git branch git branch ____
+- TO move git chechout "branch name" 
