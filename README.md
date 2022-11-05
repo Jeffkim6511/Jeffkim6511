@@ -16,6 +16,7 @@ To make changes to repositories:
 then it should work!!!!!
 
 How to branch:
+Branches are used for people to make changes to code and work in different parts of the program without destroying it!!
 - To make git branch git branch ____
 - To move git checkout "branch name" 
 - Git push -u origin "branch name"
