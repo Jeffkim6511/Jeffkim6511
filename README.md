@@ -8,3 +8,8 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am still living! Also, have a waffle. (>")>#
 
+To make changes to repositories:
+- to make it git add .
+- then git commit -m "___"
+- then git push
+then it should work!!!!!
