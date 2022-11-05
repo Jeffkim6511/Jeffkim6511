@@ -11,9 +11,11 @@
 To make changes to repositories:
 - to make it git add .
 - then git commit -m "___"
+- or git commit -am "___" (combines both add and commit)
 - then git push
 then it should work!!!!!
 
 How to branch:
 - To make git branch git branch ____
-- TO move git chechout "branch name" 
+- To move git checkout "branch name" 
+- Git push -u origin "branch name"
