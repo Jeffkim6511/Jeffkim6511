@@ -20,4 +20,4 @@ Branches are used for people to make changes to code and work in different parts
 - To make git branch git branch ____
 - To move git checkout "branch name" 
 - Git push -u origin "branch name"
-- To pull branches git pull origin "main branch"
+- To pull branches git pull origin "main branch"# Stupid
